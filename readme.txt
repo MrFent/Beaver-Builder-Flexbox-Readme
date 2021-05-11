@@ -1,7 +1,7 @@
 === Beaver Builder Flexbox ===
 Tags: beaver builder, beaver builder modules, beaverbuilder, flex box, flexbox
 Requires at least: 4.9
-Tested up to: 5.3.2
+Tested up to: 5.7.1
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv3 or later
@@ -26,6 +26,20 @@ Adds CSS Grid functionality to Beaver Builder rows and columns.
 Go to <a href="https://mrfent.com/beaver-builder-flexbox/">MrFent.com</a> to see a demonstration.
 
 == Changelog ==
+
+1.2 - 5/11/2021
+
+Enhancement:
+
+- New Column Setting: column-gap
+- New Column Setting: row-gap
+
+1.1.4 - 5/5/2021
+
+Enhancement:
+
+- Flexbox columns are now set to 0 (auto) by default
+- Switched automatic updates to new licensing system
 
 1.1.3 - 12/8/2019
 
